@@ -503,6 +503,12 @@ section .title::after{
 .contact .contact-content .info .sub-title{
     color: #333;
 }
+
+.contact .contact-content .info .sub-title a{
+    color: #333;
+    text-decoration: underline;
+}
+
 .contact .right form .fields{
     display: flex;
 }
